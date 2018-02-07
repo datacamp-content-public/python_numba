@@ -1,39 +1,34 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
-## Sample exercise
+## First exercise
 
 ```yaml
 type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: e8955f5775
+key: a0217ef05b
 ```
 
+First assignement
 
 `@instructions`
+Import numba and numpy
 
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
 `@sample_code`
 ```{python}
-
+# import numpy
 ```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
